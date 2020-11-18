@@ -65,11 +65,19 @@ $ nodeppt build slide.md
 
 ---
 
--   Page\: ↑/↓/←/→ Space Home End
--   Fullscreen\: F
--   Overview\: -/+
--   Speaker Note\: N
--   Grid Background\: Enter
+- Page\: ↑/↓/←/→ Space Home End
+
+- Fullscreen\: F
+
+- Overview\: -/+
+
+- Speaker Note\: N
+
+- Grid Background\: Enter
+  $$
+  f(x)=y
+  $$
+  
 
 :::note
 ## Note here
